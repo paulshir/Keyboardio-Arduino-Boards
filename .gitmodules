@@ -173,3 +173,6 @@
 [submodule "libraries/Kaleidoscope-Redial"]
 	path = libraries/Kaleidoscope-Redial
 	url = https://github.com/keyboardio/Kaleidoscope-Redial
+[submodule "libraries/Kaleidoscope-Hardware-EZ-ErgoDox"]
+	path = libraries/Kaleidoscope-Hardware-EZ-ErgoDox
+	url = https://github.com/keyboardio/Kaleidoscope-Hardware-EZ-ErgoDox
